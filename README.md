@@ -1,38 +1,57 @@
-# Distilled Quran
+<div align="center">
 
-A single-page interactive reader presenting scholarly summaries of all 114 souras of the Quran.
+# 📖 Distilled Quran
+
+**A scholarly summary of all 114 souras of the Quran**
+
+[![Live Demo](https://img.shields.io/badge/Live-Distilled%20Quran-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raz123.github.io/quran-distill/)
+
+</div>
+
+---
 
 > **Note:** The Quran is eternally Arabic — this project works on an English translation. Summaries and TL;DRs are interpretations of the translated text, not the original Arabic.
 
-**Live:** [raz123.github.io/quran-distill](https://raz123.github.io/quran-distill/)
+## ✨ Features
 
-## Features
+| Feature | Description |
+|---------|-------------|
+| 📚 **114 Souras** | Scholarly summaries, one-line TL;DRs, and historical metadata |
+| 📅 **Chronological Ordering** | View souras by revelation date (Meccan / Medinan) |
+| 🔍 **Full-Text Search** | Search across names, translations, and summaries |
+| 📱 **Responsive Design** | Works beautifully on mobile and desktop |
+| 🚀 **Self-Contained** | Single `index.html` — no external dependencies |
 
-- **114 souras** with scholarly summaries, one-line TL;DRs, and historical metadata
-- **Chronological ordering** — view souras by revelation date (Meccan/Medinan)
-- **Full-text search** across names and summaries
-- **Responsive design** — works on mobile and desktop
-- **Self-contained** — single `index.html`, no external dependencies
-
-## Structure
+## 🏗️ Structure
 
 ```
-index.html          # The entire app (HTML + CSS + JS + embedded data)
-distilled_quran.md  # Full markdown companion document
+quran-distill/
+├── index.html          # The entire app (HTML + CSS + JS + embedded data)
+└── distilled_quran.md  # Full markdown companion document
 ```
 
-## How it works
+## ⚙️ How It Works
 
-All data (114 soura summaries, metadata, TL;DRs) is embedded as JSON inside `index.html`. The app runs entirely client-side — no server required. Just open the file in a browser, or serve it with any static file server.
+All data — 114 soura summaries, metadata, and TL;DRs — is embedded as JSON inside `index.html`. The app runs entirely client-side with no server required. Just open the file in any modern browser.
 
-## Deployment
+## 🚢 Deployment
 
-Hosted on GitHub Pages. Push to `main` and it auto-deploys.
+Hosted on **GitHub Pages**. Push to `main` and it auto-deploys.
 
 ```bash
-python3 -m http.server 8080  # local dev
+# Local development
+python3 -m http.server 8080
+# → http://localhost:8080
 ```
 
-## Data sources
+## 📖 Data Sources
 
 Summaries were generated from [risan/quran-json](https://github.com/risan/quran-json) and refined through multiple rounds of editorial and theological review.
+
+---
+
+<div align="center">
+
+**Built with ❤️ for those who seek understanding**
+
+</div>
