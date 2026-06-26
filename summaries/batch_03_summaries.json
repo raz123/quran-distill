@@ -1,0 +1,100 @@
+{
+  "batch_info": {
+    "batch_number": 3,
+    "souras_covered": "21-30",
+    "total_souras": 10,
+    "translation": "Sahih International English"
+  },
+  "summaries": [
+    {
+      "id": 21,
+      "name": "الأنبياء",
+      "transliteration": "Al-Anbya",
+      "translation": "The Prophets",
+      "type": "meccan",
+      "total_verses": 112,
+      "summary": "Al-Anbya (The Prophets) is a Meccan sura that addresses the central Quranic theme of prophethood and divine messengership. The sura opens with a stern warning to humanity about the approaching Day of Reckoning, noting that people remain heedless even as divine signs surround them. A major portion of the sura recounts the stories of numerous prophets—Abraham, Lot, Noah, David, Solomon, Job, Ishmael, Idris, Dhul-Kifl, Jonah (the man of the fish), Zechariah, and Mary—demonstrating that all prophets preached the same essential message of monotheism (tawhid). The sura emphasizes that prophets were human beings, not angels or divine beings; they ate, drank, and died like other people. Key themes include the refutation of polytheism (shirk), the creation of the heavens and earth as purposeful acts, the signs of God in nature, and the inevitability of divine justice. A remarkable passage describes the creation of life from water and the cosmic order of celestial bodies moving in orbits—often cited as containing scientific foreknowledge. The sura culminates with the declaration that Muhammad was sent as 'a mercy to the worlds' (21:107), and concludes with the eschatological imagery of the heavens being rolled up like a scroll, signaling the end of creation and the promise of resurrection."
+    },
+    {
+      "id": 22,
+      "name": "الحج",
+      "transliteration": "Al-Hajj",
+      "translation": "The Pilgrimage",
+      "type": "medinan",
+      "total_verses": 78,
+      "summary": "Al-Hajj (The Pilgrimage) is a Medinan sura that derives its name from the Islamic pilgrimage to Mecca, though it encompasses a wide range of theological, legal, and ethical teachings. The sura opens with a vivid description of the terror of the Day of Resurrection, depicting how even nursing mothers will be distracted from their infants. It then addresses the Resurrection itself through the analogy of rain bringing life to barren earth, arguing that the same God who creates life from dust can recreate it after death. The sura provides detailed instructions regarding the Hajj rites, establishing their divine origin through Abraham, and emphasizes the spiritual meaning behind the sacrificial animals—that it is not their meat or blood that reaches God, but the piety of the worshipper. A historically significant passage (22:39-40) grants permission for defensive fighting to those who have been wronged and expelled from their homes, marking one of the earliest Quranic justifications for armed self-defense. The sura also affirms religious pluralism in its broader sense, noting that God will judge between all religious communities on the Day of Judgment. It warns against hypocrisy, the worship of false deities, and the arrogant rejection of divine guidance, while affirming God's absolute sovereignty over creation."
+    },
+    {
+      "id": 23,
+      "name": "المؤمنون",
+      "transliteration": "Al-Mu'minun",
+      "translation": "The Believers",
+      "type": "meccan",
+      "total_verses": 118,
+      "summary": "Al-Mu'minun (The Believers) is a Meccan sura that provides a comprehensive portrait of true believers and the qualities that define their success. It opens with a list of the characteristics of the successful believers: humble in prayer, turning away from vain speech, active in charitable giving (zakah), guarding their chastity, honoring their trusts and promises, and maintaining their prayers consistently. The sura then presents a remarkable account of human embryological development—from clay to sperm-drop, to clinging clot, to lump of flesh, to bones, and then clothing those bones with flesh—framed as evidence of God's creative power and the certainty of resurrection. A lengthy historical section recounts the stories of Noah, Moses, Aaron, and Jesus and Mary, emphasizing the consistent message of all prophets and the recurring pattern of rejection by disbelieving communities. The sura addresses the disbelievers' denial of the Hereafter with the rhetorical argument that God, who creates life, can just as easily recreate it. It concludes with the image of the weighing of deeds on the Day of Judgment, where the scales will determine the fate of each soul—those with heavy scales of good deeds achieving success, and those with light scales suffering eternal loss in Hell."
+    },
+    {
+      "id": 24,
+      "name": "النور",
+      "transliteration": "An-Nur",
+      "translation": "The Light",
+      "type": "medinan",
+      "total_verses": 64,
+      "summary": "An-Nur (The Light) is a Medinan sura that addresses both legal rulings and profound spiritual teachings. It opens with legislation regarding sexual misconduct, establishing severe punishments for adultery and false accusations (qadhf), along with detailed procedures for the li'an (mutual cursing) oath between spouses. The sura is historically connected to the incident of the slander (ifk) against Aisha, the Prophet's wife, establishing the requirement of four witnesses for accusations of adultery and condemning gossip and backbiting. The spiritual centerpiece is the famous 'Verse of Light' (Ayat an-Nur, 24:35), one of the most celebrated passages in the Quran, which presents an elaborate metaphor of God as the Light of the heavens and the earth—described as a niche containing a lamp, the lamp within glass, the glass as if a pearly star, lit from a blessed olive tree. This passage has been interpreted by scholars across centuries as pointing to divine illumination, prophetic guidance, and the inner spiritual life of the believer. The sura also establishes etiquette for entering others' homes, guidelines for modesty between men and women, and regulations concerning marriage. It concludes by addressing the hypocrites (munafiqun) and affirming that true believers are those who submit to God's commandments and the authority of the Prophet."
+    },
+    {
+      "id": 25,
+      "name": "الفرقان",
+      "transliteration": "Al-Furqan",
+      "translation": "The Criterion",
+      "type": "meccan",
+      "total_verses": 77,
+      "summary": "Al-Furqan (The Criterion) is a Meccan sura whose name refers to the Quran's function as the divine criterion that distinguishes truth from falsehood. The sura begins by glorifying God who sent down the Criterion upon His servant Muhammad, establishing the Quran's divine origin. It refutes the disbelievers' various claims about the Quran—that it is merely fabricated poetry, legends of the ancients, or the product of a human helper. The sura emphasizes that all previous prophets were also human beings who ate and walked in markets, countering the demand for an angelic messenger. A lengthy section describes the punishment awaiting deniers of the Hour, using vivid imagery of the Hellfire. The sura also recounts the stories of Moses confronting Pharaoh and the people of Noah, as well as the destruction of 'Aad, Thamud, and the Companions of the Well, establishing a pattern of divine retribution against persistent disbelievers. A beautiful portrait of the 'servants of the Most Merciful' is presented in verses 63-76, describing their characteristics: walking humbly on earth, responding to ignorance with peace, spending nights in prayer, and seeking refuge from Hellfire. The sura concludes by contrasting the fate of the righteous and the wicked on the Day of Judgment, with the wrongdoer regretting having followed false friends instead of divine guidance."
+    },
+    {
+      "id": 26,
+      "name": "الشعراء",
+      "transliteration": "Ash-Shu'ara",
+      "translation": "The Poets",
+      "type": "meccan",
+      "total_verses": 227,
+      "summary": "Ash-Shu'ara (The Poets) is one of the longest Meccan suras, named for its concluding reference to poets. The sura is structured around the repeated narrative of prophets being sent to their peoples and being rejected, each section ending with the refrain 'Indeed in that is a sign, but most of them were not to be believers.' It recounts the stories of Moses confronting Pharaoh (in extended detail, including the encounter with the magicians who prostrate upon witnessing the truth), Abraham destroying the idols and being cast into fire, Noah and the flood, Hud and the people of 'Aad, Salih and Thamud, Lot and his people, and Shu'ayb and the Companions of the Thicket. Each prophetic narrative follows a consistent pattern: the prophet delivers a clear message of monotheism, the people reject it, divine punishment is threatened and then realized. The sura's title alludes to the Meccan critics' accusation that Muhammad was a poet—a charge the Quran consistently denies. The final verses distinguish between legitimate poets who believe, do righteous deeds, remember God, and defend the oppressed, and deviant poets who lead people astray. The sura serves as a comprehensive survey of prophetic history, establishing the continuity of divine revelation and the predictable human pattern of resistance to truth."
+    },
+    {
+      "id": 27,
+      "name": "النمل",
+      "transliteration": "An-Naml",
+      "translation": "The Ant",
+      "type": "meccan",
+      "total_verses": 93,
+      "summary": "An-Naml (The Ant) is a Meccan sura named for the incident in which Solomon's army passes through a valley and an ant warns her colony to enter their dwellings—a detail that showcases Solomon's God-given understanding of the language of animals. The sura weaves together several narrative threads: Moses at the burning bush receiving his prophetic mission; Solomon's kingdom with its jinn, birds, and extraordinary wisdom; the Queen of Sheba (Bilqis) and her eventual submission to God after witnessing Solomon's miraculous knowledge; the story of Salih and the people of Thamud; and Lot and his people. The narrative of the Queen of Sheba is particularly rich, illustrating how even a powerful, intellectually sophisticated ruler can recognize divine truth when confronted with it, ultimately declaring submission to Allah. The sura also features a series of rhetorical questions ('Is He [not best] who...') that catalogue God's blessings—creation of the heavens and earth, sending rain, guiding through darknesses—challenging polytheists to identify any comparable deity. The closing verses address the Day of Judgment, when every nation will be brought forth with its witnesses, and the Prophet Muhammad is reminded that his duty is simply to convey the message. The sura beautifully illustrates God's signs in creation, history, and human conscience."
+    },
+    {
+      "id": 28,
+      "name": "القصص",
+      "transliteration": "Al-Qasas",
+      "translation": "The Stories",
+      "type": "meccan",
+      "total_verses": 88,
+      "summary": "Al-Qasas (The Stories) is a Meccan sura whose title refers to the Quranic practice of relating historical narratives as guidance. Its primary focus is the extended story of Moses—one of the most detailed prophetic narratives in the Quran—covering his miraculous birth, his upbringing in Pharaoh's household, his accidental killing of an Egyptian, his flight to Madyan, his marriage to the daughter of Shu'ayb, and his encounter with God at the burning bush. The sura emphasizes God's providential care for the oppressed Children of Israel and His plan to humble the tyrannical Pharaoh. A significant theme is the contrast between worldly power (Pharaoh, Haman, and Qarun) and divine authority. The story of Qarun (Korah) serves as a cautionary tale about the delusions of wealth—despite possessing treasures so vast their keys would burden strong men, he is swallowed by the earth along with his palace. The sura also addresses the Prophet Muhammad's mission in relation to the People of the Book, and includes a passage about the believers from the People of the Scripture who affirm the truth of the Quran (28:52-55), receiving a 'double reward' for their patience and acceptance. The closing verses warn against following desires without divine guidance and affirm God's absolute sovereignty."
+    },
+    {
+      "id": 29,
+      "name": "العنكبوت",
+      "transliteration": "Al-'Ankabut",
+      "translation": "The Spider",
+      "type": "meccan",
+      "total_verses": 69,
+      "summary": "Al-'Ankabut (The Spider) is a Meccan sura whose title derives from a striking simile in verse 41: the example of those who take allies other than God is like a spider who builds a home—'and indeed, the weakest of homes is the home of the spider, if they only knew.' This metaphor powerfully illustrates the fragility of false support systems and idolatrous dependencies. The sura opens with the theme of spiritual trial and testing, asserting that faith is not mere verbal claim but must be proven through adversity, just as it was tested for those before. It recounts the stories of Noah (who preached for 950 years), Abraham and his confrontation with his idolatrous people, Lot and his people's immorality, Shu'ayb and the people of Madyan, and the destruction of 'Aad and Thamud. A notable passage addresses the relationship between believers and the People of the Book, instructing Muslims to argue with them 'in a way that is best' while affirming common monotheistic ground. The sura addresses the psychological state of hypocrites who claim faith but abandon it during hardship, and affirms that true reliance on God brings guidance. The concluding verses offer profound comfort to persecuted believers: 'O My servants who have believed, indeed My earth is spacious, so worship only Me' (29:56)—a message that has resonated with displaced and oppressed communities throughout Islamic history."
+    },
+    {
+      "id": 30,
+      "name": "الروم",
+      "transliteration": "Ar-Rum",
+      "translation": "The Romans",
+      "type": "meccan",
+      "total_verses": 60,
+      "summary": "Ar-Rum (The Romans) is a Meccan sura that takes its name from the opening verses predicting the defeat and subsequent victory of the Byzantine (Roman) Empire over the Persians—a prophecy remarkable for its specificity ('within three to nine years') and its fulfillment in historical records. The sura uses this contemporary political event as evidence of God's sovereignty over worldly affairs and as a source of encouragement for the early Muslim community, who shared a religious kinship with the Christian Romans against the polytheistic Persians. The central portion of the sura presents a series of 'ayat al-kawniyyah' (cosmic signs)—God's creation of humanity, the diversity of languages and colors, the alternation of night and day, the creation of mates for tranquility, the cycles of life and death, and the revitalization of dead earth through rain—all pointing to God's creative power and the certainty of resurrection. A key verse (30:30) instructs followers to 'direct your face toward the religion, inclining to truth' and to adhere to the 'fitrah of Allah upon which He has created all people'—a foundational concept in Islamic theology referring to the innate disposition toward monotheism. The sura warns against the temporary nature of worldly comfort and the human tendency toward ingratitude, while affirming that God's promise is true and that patience is the proper response to divine testing."
+    }
+  ]
+}

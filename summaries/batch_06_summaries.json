@@ -1,0 +1,324 @@
+{
+  "batch_id": 6,
+  "souras_range": "51-60",
+  "translation": "Sahih International",
+  "summaries": [
+    {
+      "id": 51,
+      "name": "الذاريات",
+      "transliteration": "Adh-Dhariyat",
+      "translation": "The Winnowing Winds",
+      "type": "meccan",
+      "total_verses": 60,
+      "summary": "Adh-Dhariyat (The Winnowing Winds) is a Meccan soura that opens with a powerful series of oaths by natural phenomena: winds that scatter dust, clouds that carry water, ships that sail gracefully, and angels who apportion divine decrees. These cosmic witnesses establish the certainty of the Day of Recompense and the truth of the Quranic message. The soura contrasts the fate of disbelievers, lost in confusion and heedlessness, with the righteous who are promised gardens and springs. A vivid portrait of the believers is painted: they spend little time sleeping, rise before dawn to seek forgiveness, and share their wealth with the needy and destitute. The central narrative recounts the visit of angelic guests to Prophet Ibrahim (Abraham), who brought him glad tidings of a learned son despite his wife's advanced age, and announced the destruction of the criminal people of Lot. The soura then surveys the signs in creation: the structured heavens, the spread earth, and the creation of mates. It catalogs the fates of past disbelieving nations: Pharaoh and his army drowned, Aad destroyed by barren winds, Thamud annihilated by thunderbolt, and Noah's defiant people swept away. The soura culminates with one of the most profound declarations in the entire Quran: 'I did not create the jinn and mankind except to worship Me' (51:56), establishing the fundamental purpose of human existence.",
+      "main_themes": [
+        "Divine sovereignty over natural phenomena as witnesses to truth",
+        "The certainty of the Hereafter and divine recompense",
+        "The story of Ibrahim and the destruction of Lot's people",
+        "Historical precedents of divine punishment for disbelieving nations",
+        "The purpose of creation: worship of Allah alone",
+        "The portrait of the righteous and their nightly devotion"
+      ],
+      "historical_context": "This Meccan soura was revealed during the early period of prophethood in Makkah, when the Prophet Muhammad (peace be upon him) faced intense opposition from the Quraysh. The references to past nations being destroyed for rejecting their prophets served as both comfort to the early Muslims and a warning to their persecutors. The story of Ibrahim connects the Abrahamic monotheistic tradition to the new revelation.",
+      "key_verses": {
+        "51:56": "The purpose of creation (worship of Allah alone) is the theological cornerstone of this soura and one of the most frequently cited verses in Islamic spirituality.",
+        "51:15-19": "The description of the righteous who pray at night and give charity establishes the ideal Muslim character: devotion combined with generosity.",
+        "51:24-33": "The narrative of Ibrahim's angelic guests demonstrates divine mercy in granting offspring and divine justice in punishing criminal nations."
+      },
+      "spiritual_lessons": [
+        "Human existence finds its meaning only in worship and devotion to the Creator",
+        "The natural world is replete with signs pointing to divine power and wisdom",
+        "Charity and concern for the needy are hallmarks of genuine faith",
+        "Night prayer and seeking forgiveness are acts of spiritual elevation",
+        "Patience in the face of mockery is a prophetic virtue"
+      ],
+      "broader_narrative": "This soura fits within the Meccan cycle of suras that establish tawhid (divine unity) through arguments from creation, historical precedent, and prophetic narrative. It connects the Abrahamic tradition to the Muhammadan mission and anchors the purpose of creation firmly in worship, a theme that reverberates throughout the Quran."
+    },
+    {
+      "id": 52,
+      "name": "الطور",
+      "transliteration": "At-Tur",
+      "translation": "The Mount",
+      "type": "meccan",
+      "total_verses": 49,
+      "summary": "At-Tur (The Mount) is a Meccan soura that opens with solemn oaths by sacred and cosmic symbols: Mount Sinai (the Tur), the inscribed Book on parchment, the Ka'bah (the frequented House), the elevated heaven, and the sea filled with fire. These oaths establish the gravity of the divine message and the inevitability of the Day of Judgment. The soura presents a stark contrast between two groups. The disbelievers are occupied in empty discourse and amusement, oblivious to the approaching reality. On the Day of Judgment, they will be thrust violently into Hellfire, where they will be told to be patient or impatient (both are the same, for they are being recompensed for what they did). The righteous, by contrast, will dwell in gardens of pleasure, reclining on thrones, enjoying the provision of their Lord, and conversing about their former lives of God-consciousness. The latter half engages the disbelievers in rhetorical questions challenging their claims: Were they created from nothing? Did they create the heavens and earth? Do they have access to divine treasures or heavenly stairways? These questions expose the intellectual bankruptcy of shirk (polytheism). The soura concludes with a tender address to the Prophet, instructing him to be patient and to glorify Allah in the morning and night.",
+      "main_themes": [
+        "The certainty of divine punishment and the Day of Judgment",
+        "The contrast between the fates of believers and disbelievers",
+        "Challenging the logic of polytheism through rhetorical questions",
+        "The paradise prepared for the God-fearing",
+        "Prophetic patience and constancy in worship"
+      ],
+      "historical_context": "Revealed in Makkah during a period of severe persecution, this soura addresses the Quraysh's mockery of the Prophet and their stubborn rejection of the message. The references to the Tur (Mount Sinai) connect the Muhammadan revelation to the Mosaic tradition, asserting continuity of the Abrahamic monotheistic message.",
+      "key_verses": {
+        "52:1-6": "The opening oaths by Mount Sinai, the inscribed Book, the Ka'bah, and cosmic phenomena establish the divine authority behind the revelation.",
+        "52:21": "The joining of righteous families in Paradise highlights the intergenerational reward of faith.",
+        "52:48-49": "The instruction to glorify Allah morning and night emphasizes the importance of consistent, habitual devotion."
+      },
+      "spiritual_lessons": [
+        "Sacred places and natural phenomena testify to divine truth",
+        "The emptiness of worldly amusement without God-consciousness",
+        "The ultimate justice of divine recompense",
+        "Family bonds of faith extend into the eternal life",
+        "Persistent devotion is the believer's response to persecution"
+      ],
+      "broader_narrative": "At-Tur belongs to the Meccan corpus that confronts denial with logical argument and vivid eschatological imagery. It reinforces the pattern of pairing descriptions of paradise with hellfire to motivate moral choice, a recurring structural and thematic element in the Quran."
+    },
+    {
+      "id": 53,
+      "name": "النجم",
+      "transliteration": "An-Najm",
+      "translation": "The Star",
+      "type": "meccan",
+      "total_verses": 62,
+      "summary": "An-Najm (The Star) is one of the most significant Meccan suras, containing one of the earliest and most detailed descriptions of the Prophet Muhammad's Night Journey (al-Isra' wal-Mi'raj). The soura opens with an oath by the descending star, affirming that the Prophet neither erred nor spoke from personal desire: it is nothing but revelation revealed by Jibril (Gabriel), described as one of soundness who rose to his true form in the highest horizon. The Prophet's heart did not lie about what he saw, and he witnessed the greatest signs of his Lord at the Lote Tree of the Utmost Boundary near the Garden of Refuge. The soura pivots to a scathing critique of the pre-Islamic Arab practice of assigning divine daughters to Allah while keeping sons for themselves, exposing the logical absurdity. It names the three chief pagan goddesses (al-Lat, al-Uzza, and Manat), declaring them mere names with no divine authority. The verses establish foundational ethical principles from the scriptures of Musa and Ibrahim: no bearer of burdens bears another's burden, each person earns only what they strive for, and their effort will be seen and fully recompensed. The soura surveys Allah's creative power and cites the destruction of past nations as evidence. It concludes with a rebuke of those who laugh rather than weep at divine warnings.",
+      "main_themes": [
+        "The authenticity of prophetic revelation and the Night Journey",
+        "Critique of pre-Islamic polytheism and false deities",
+        "Individual moral responsibility and accountability",
+        "Divine creative power as evidence of sovereignty",
+        "The urgency of worship in the face of the Approaching Day"
+      ],
+      "historical_context": "This Meccan soura addresses the Quraysh's accusations against the Prophet (calling him a soothsayer, madman, or poet) and affirms the divine origin of his revelation. The reference to the Night Journey indicates this was revealed after that pivotal event, though still during the Meccan period. The critique of al-Lat, al-Uzza, and Manat directly challenged the religious establishment of Makkah.",
+      "key_verses": {
+        "53:1-18": "The detailed account of the Night Journey is one of the most significant mystical passages in the Quran.",
+        "53:19-23": "The exposure of pagan goddesses as baseless names is a foundational text of Islamic monotheism.",
+        "53:38-42": "The principle of individual accountability (no bearer of burdens bears another's burden) is a cornerstone of Islamic ethics."
+      },
+      "spiritual_lessons": [
+        "True revelation is distinguished from personal desire and imagination",
+        "Mankind must never attribute divinity to anything other than the Creator",
+        "Each person is individually accountable for their choices and efforts",
+        "Gratitude for divine blessings should lead to worship, not heedlessness",
+        "The approaching Hour demands urgent spiritual preparation"
+      ],
+      "broader_narrative": "An-Najm is pivotal in the Quran's narrative arc: it establishes the Prophet's supernatural authority through the Night Journey, demolishes the theological basis of Arabian polytheism, and articulates the ethical principles of individual responsibility that undergird Islamic law and morality. It bridges the mystical and the legal, the prophetic and the ethical."
+    },
+    {
+      "id": 54,
+      "name": "القمر",
+      "transliteration": "Al-Qamar",
+      "translation": "The Moon",
+      "type": "meccan",
+      "total_verses": 55,
+      "summary": "Al-Qamar (The Moon) is a Meccan soura of extraordinary rhetorical power, structured around a devastating refrain: 'And We have certainly made the Quran easy for remembrance, so is there any who will remember?' This phrase recurs after each narrative of divine punishment, creating a rhythmic litany of warning. The soura opens with the dramatic declaration that the Hour has drawn near and the moon has split, an event understood by many scholars as a literal miracle during the Prophet's lifetime. Despite this, the disbelievers dismissed it as mere magic. The soura then systematically recounts the fates of five nations that rejected their prophets: Noah (drowned by the deluge), Aad (destroyed by a screaming wind), Thamud (annihilated by a thunderbolt after hamstringing the she-camel), the people of Lot (struck by a storm of stones), and Pharaoh (seized by divine power). Each narrative follows a pattern: denial, rejection of the warning, divine punishment, and a rhetorical question inviting reflection. The description of the Day of Judgment is vivid: people emerging from graves like locusts, being dragged into Hell on their faces. The soura declares that all things were created with divine predestination, and that Allah's command is executed instantly. The closing verses contrast the fate of the righteous with the criminals.",
+      "main_themes": [
+        "The splitting of the moon as a sign of prophetic truth",
+        "The recurrent pattern of divine punishment for deniers",
+        "The ease of the Quran for remembrance and reflection",
+        "Divine predestination and the sovereignty of Allah's command",
+        "The Day of Judgment and its terrors",
+        "The reward of the righteous in the Hereafter"
+      ],
+      "historical_context": "This Meccan soura responds to the Quraysh's demand for miracles and their subsequent dismissal of any sign shown to them. The splitting of the moon (inshaq al-qamar) is understood by many scholars as a literal miracle in Makkah, witnessed by some of the Quraysh, yet still denied. The references to past prophets placed Muhammad within the continuum of prophetic history.",
+      "key_verses": {
+        "54:1": "The splitting of the moon is both a historical miracle and an eschatological sign.",
+        "54:17,22,32,40": "The repeated refrain about the ease of the Quran emphasizes that the message is accessible; the failure lies in human refusal to heed it.",
+        "54:49": "The declaration of divine predestination affirms that nothing occurs outside Allah's knowledge and will."
+      },
+      "spiritual_lessons": [
+        "Divine signs are given not for spectacle but for reflection and guidance",
+        "The pattern of prophetic rejection teaches that denial is a human constant",
+        "The accessibility of the Quran places the burden of response on the individual",
+        "All events unfold within divine predestination, yet human choice remains real",
+        "The Day of Judgment is a reality that should transform present behavior"
+      ],
+      "broader_narrative": "Al-Qamar belongs to a cluster of Meccan suras that use historical narrative as the primary mode of argument. Its refrain creates a liturgical quality, turning each story of destruction into a lectionary for the present. The soura reinforces the Quran's central warning: those who ignore the lessons of history are doomed to repeat them."
+    },
+    {
+      "id": 55,
+      "name": "الرحمن",
+      "transliteration": "Ar-Rahman",
+      "translation": "The Beneficent",
+      "type": "medinan",
+      "total_verses": 78,
+      "summary": "Ar-Rahman (The Beneficent) is among the most celebrated and melodious suras in the entire Quran, renowned for its lyrical beauty and theological depth. Often called 'the bride of the Quran' due to its exquisite literary quality, it is classified as Medinan by the majority of scholars. The soura opens by identifying Allah by His attribute of all-encompassing mercy: He taught the Quran, created humanity, and granted the gift of speech. It surveys the cosmic order: the precise movement of celestial bodies, the prostration of stars and trees, the raising of the heavens, and the establishment of balance and justice. A remarkable passage describes the two seas meeting side by side with a barrier between them, from which emerge pearls and coral. The soura is structured around a haunting refrain repeated thirty-one times: 'So which of the favors of your Lord would you deny?' This rhetorical question, addressed to both jinn and mankind, transforms each description of divine blessing into an act of worship. The central challenge comes when jinn and mankind are dared to pass beyond the realms of the heavens and earth, an impossibility without divine authority. The latter half describes the rewards of paradise and the punishment of hell, with the refrain serving as a bridge. The soura closes with the invocation: 'Blessed is the name of your Lord, Owner of Majesty and Honor.'",
+      "main_themes": [
+        "The all-encompassing mercy of Allah as the defining divine attribute",
+        "The cosmic order as evidence of divine wisdom and generosity",
+        "The impossibility of transcending divine boundaries without permission",
+        "Gratitude as the appropriate response to divine blessing",
+        "The parallel descriptions of paradise and hellfire",
+        "The sovereignty and majesty of the Creator"
+      ],
+      "historical_context": "As a Medinan soura, Ar-Rahman was revealed after the hijrah (migration to Madinah), when the Muslim community was establishing itself. The emphasis on divine mercy and the abundance of paradise served to encourage the community, while the warnings about hellfire reminded them of their obligations. Some scholars date it to the early Madinan period.",
+      "key_verses": {
+        "55:1-4": "The opening attributes establish the foundation of the human-divine relationship.",
+        "55:19-20": "The two seas metaphor illustrates divine wisdom in maintaining order within apparent unity.",
+        "55:26-28": "The declaration that all earthly life will perish while the Face of Allah remains is among the most profound theological statements in the Quran.",
+        "55:33": "The challenge to jinn and mankind establishes the absolute sovereignty of divine authority."
+      },
+      "spiritual_lessons": [
+        "Every breath and blessing is a divine gift demanding gratitude",
+        "The natural world operates according to divine balance and justice",
+        "Human limitations are not deficiencies but divinely designed boundaries",
+        "Gratitude must be expressed through worship and obedience, not merely felt",
+        "The majesty of the Creator inspires both awe and love"
+      ],
+      "broader_narrative": "Ar-Rahman occupies a unique place in the Quran as a summary of its core theological message: the relationship between divine mercy and human responsibility. Its refrain transforms the entire natural order into a liturgical text, making every creature and phenomenon a reminder of divine generosity."
+    },
+    {
+      "id": 56,
+      "name": "الواقعة",
+      "transliteration": "Al-Waqi'ah",
+      "translation": "The Inevitable",
+      "type": "meccan",
+      "total_verses": 96,
+      "summary": "Al-Waqi'ah (The Inevitable) is a Meccan soura of remarkable vividness, offering one of the most detailed descriptions of the Hereafter in the Quran. It opens with the dramatic announcement of the Occurrence (the Day of Judgment), describing the convulsion of the earth, the crumbling of mountains into dust, and the sorting of humanity into three distinct groups: the companions of the right (the blessed), the companions of the left (the damned), and the forerunners (the closest to Allah). The companions of the right recline on ornate thrones, are surrounded by eternal youth, drink from flowing springs that cause neither headache nor intoxication, and enjoy abundant fruit and fine meat. They will be joined with fair companions like pearls well-protected. The companions of the left endure scorching fire, scalding water, and black smoke, having lived in affluence and denied resurrection. The soura then presents remarkable rhetorical questions about creation: the human seed, the growth of crops, the descent of rain, and the ignition of fire, each asking whether it is humans or Allah who does these things. It declares the Quran's nobility (in a Register well-protected; none touch it except the purified) and culminates in a haunting description of the moment of death, when the soul reaches the throat and the angels draw near.",
+      "main_themes": [
+        "The certainty and drama of the Day of Judgment",
+        "The three categories of humanity in the Hereafter",
+        "The lush description of paradise as divine reward",
+        "The horrors of hellfire as divine justice",
+        "Human dependence on divine creative power",
+        "The nobility and sanctity of the Quran",
+        "The reality of death and its consequences"
+      ],
+      "historical_context": "This Meccan soura addresses the Quraysh's denial of resurrection. The detailed descriptions of paradise and hell were meant to make the abstract tangible, motivating belief through vivid eschatological imagery. The declaration of the Quran's sanctity countered the disbelievers' treatment of it as mere poetry.",
+      "key_verses": {
+        "56:7-26": "The three groups and the detailed description of the companions of the right establish the Quranic vision of paradise.",
+        "56:57-74": "The rhetorical questions about human creation, agriculture, rain, and fire constitute a powerful argument from design.",
+        "56:77-82": "The declaration that the Quran is in a Register well-protected; none touch it except the purified, establishes its sacred status.",
+        "56:83-96": "The description of the moment of death and the fate of the righteous and disbelieving is among the most powerful passages in the Quran."
+      },
+      "spiritual_lessons": [
+        "The Hereafter is not a distant abstraction but an approaching reality",
+        "Human life depends entirely on divine creative power at every moment",
+        "The Quran demands reverence and purification of heart and body",
+        "The manner of one's death often reflects the quality of one's life",
+        "Gratitude for creative blessings is the essence of worship"
+      ],
+      "broader_narrative": "Al-Waqi'ah belongs to the early Meccan cycle that confronts denial of resurrection with vivid eschatological imagery. Its detailed descriptions complement the more abstract discussions of the Hereafter found elsewhere in the Quran, while its rhetorical questions about creation anticipate the cosmological arguments of later suras."
+    },
+    {
+      "id": 57,
+      "name": "الحديد",
+      "transliteration": "Al-Hadid",
+      "translation": "The Iron",
+      "type": "medinan",
+      "total_verses": 29,
+      "summary": "Al-Hadid (The Iron) is a profound Medinan soura that weaves together theology, ethics, history, and eschatology. It opens with a majestic declaration of divine sovereignty: whatever is in the heavens and earth glorifies Allah, who is the First and the Last, the Ascendant and the Intimate, who created the heavens and earth in six days and then established Himself upon the Throne. The soura issues its central exhortation: believe in Allah and His Messenger, and spend from what He has made you stewards of. A critical passage distinguishes between those who spent and fought before the conquest of Makkah and those who did so after, granting the former higher rank. The soura presents the metaphor of loaning Allah a goodly loan as a powerful image for charitable spending. One of its most dramatic passages describes the Day of Judgment: believing men and women with their light proceeding before them, while hypocrites desperately ask for light, only to be separated by a wall with a door (interior containing mercy, exterior torment). The soura offers the memorable parable of worldly life as rain whose growth pleases the tiller, then turns to dust. It exhorts believers not to despair over losses or exult over gains. The final verses survey the history of prophethood from Noah through Jesus, closing with the invitation to People of Scripture to recognize that all bounty belongs to Allah.",
+      "main_themes": [
+        "Divine sovereignty: Allah as First and Last, omniscient and omnipresent",
+        "The obligation of spending in the cause of Allah",
+        "The distinction between early and later believers in rank and reward",
+        "The metaphor of worldly life as temporary vegetation",
+        "The separation of believers and hypocrites on the Day of Judgment",
+        "The continuity of prophethood from Noah through Jesus to Muhammad",
+        "The humility of a mountain before the weight of the Quran"
+      ],
+      "historical_context": "This Medinan soura was revealed during the period following the Battle of Uhud and the Battle of the Trench, when the Muslim community faced both external threats and internal hypocrisy. The distinction between those who spent before the conquest and after refers to different degrees of sacrifice among the Muhajirun and Ansar.",
+      "key_verses": {
+        "57:1-4": "The opening attributes of Allah form one of the most comprehensive declarations of divine sovereignty in the Quran.",
+        "57:12-13": "The dramatic scene of the hypocrites begging for light while being separated by a wall is a powerful warning against hypocrisy.",
+        "57:20": "The parable of worldly life as a rain shower that produces greenery, then turns to dust, is among the most evocative images of impermanence in the Quran.",
+        "57:25": "The reference to sending down iron wherein is great military might connects divine provision to both spiritual and material empowerment."
+      },
+      "spiritual_lessons": [
+        "Allah is simultaneously transcendent and intimately present with His servants",
+        "Charitable spending is an investment in eternal reward, not a loss",
+        "The temporal nature of worldly life demands eternal perspective",
+        "Hypocrisy is exposed and punished on the Day of Judgment",
+        "The Quran's weight is such that even a mountain would humble before it",
+        "All bounty, material and spiritual, comes from Allah alone"
+      ],
+      "broader_narrative": "Al-Hadid belongs to the Medinan suras that address the complexities of a growing community: internal divisions, the challenge of hypocrisy, the ethics of spending, and the relationship with the People of Scripture. It connects the Meccan emphasis on tawhid with the Madinan concern for communal ethics and social justice."
+    },
+    {
+      "id": 58,
+      "name": "المجادلة",
+      "transliteration": "Al-Mujadila",
+      "translation": "The Pleading Woman",
+      "type": "medinan",
+      "total_verses": 22,
+      "summary": "Al-Mujadila (The Pleading Woman) is a Medinan soura named after the woman who came to the Prophet Muhammad with her complaint, demonstrating that Allah hears the cry of the oppressed even against their own husbands. The soura opens by affirming that Allah indeed heard her speech and her dialogue with the Prophet. It then addresses the pre-Islamic practice of zihar (a form of divorce where a husband declares his wife as forbidden to him like his mother's back, leaving her in limbo). The soura declares this an objectionable statement and a falsehood, prescribing a graduated process of expiation: freeing a slave, fasting for two months consecutively, or feeding sixty poor persons, depending on means. The soura addresses hypocrites who were forbidden from gathering in private but continued to do so, conspiring in sin and disobedience to the Messenger, while using a greeting different from the believers. It warns that private conversations promoting evil are from Satan, though they cannot harm believers except by Allah's permission. Verses 11-12 establish etiquettes of assembly (spaciousness, rising for the Messenger) and prescribe charity for private consultation with the Prophet. The soura culminates with the declaration that Allah has written, 'I will surely overcome, I and My messengers.' It concludes affirming that true believers cannot maintain affection for those who oppose Allah and His Messenger.",
+      "main_themes": [
+        "Divine justice for the oppressed, especially women",
+        "The prohibition and expiation of zihar (unjust divorce)",
+        "The danger of hypocritical private conspiracies",
+        "Proper etiquette in the presence of the Messenger",
+        "The inevitability of divine victory",
+        "The incompatibility of faith and alliance with enemies of truth"
+      ],
+      "historical_context": "This Medinan soura addresses specific legal and social issues in the early Muslim community. The case of the Pleading Woman (Khaulah bint Tha'labah) resulted in a divine ruling that corrected both pre-Islamic customs and the initial human judgment of the Prophet. The references to hypocrites gathering in private likely refer to the conspiracies of Abdullah ibn Ubayy and his faction in Madinah.",
+      "key_verses": {
+        "58:1-2": "Allah hears even the most private complaint of a wronged woman, establishing divine justice as accessible to all.",
+        "58:7-9": "The warning that Allah is the fourth or sixth in any private gathering is one of the most sobering reminders of divine omniscience in the Quran.",
+        "58:21": "Allah has written, I will surely overcome, I and My messengers, is a foundational promise of divine triumph."
+      },
+      "spiritual_lessons": [
+        "No complaint is too small for divine attention",
+        "Hypocrisy and secret sin are exposed before divine knowledge",
+        "Proper conduct in religious assemblies reflects inner piety",
+        "Divine victory is certain; the question is which side one is on",
+        "Faith demands choosing truth over kinship when they conflict"
+      ],
+      "broader_narrative": "Al-Mujadila belongs to the Medinan suras that establish Islamic law and social ethics. It addresses women's rights, divorce regulations, communal conduct, and the political challenge of hypocrisy, all concerns of a maturing community."
+    },
+    {
+      "id": 59,
+      "name": "الحشر",
+      "transliteration": "Al-Hashr",
+      "translation": "The Exile",
+      "type": "medinan",
+      "total_verses": 24,
+      "summary": "Al-Hashr (The Exile or The Gathering) is a Medinan soura addressing the Banu Nadir, a Jewish tribe of Madinah who conspired against the Muslim community and were subsequently exiled. The soura opens with the glorification of Allah by everything in the heavens and earth, then narrates the expulsion: the Banu Nadir fortified themselves, believing their strongholds would protect them from Allah, but divine decree came upon them from where they had not expected, and they destroyed their own houses with their hands and the hands of the believers. The spoils of war were distributed among the Prophet, his relatives, orphans, the needy, and travelers, establishing the Islamic system of wealth distribution. A moving passage praises the Ansar (helpers of Madinah) who sheltered the emigrants, loving them and preferring them over themselves despite their own poverty. The soura addresses the hypocrisy of those who swore allegiance to the expelled tribe, promising to accompany them and fight alongside them, promises Allah declares to be lies. The hypocrites fear people more than Allah. Their hearts are diverse despite outward unity. The soura compares them to Satan, who tempts humans to disbelieve and then disowns them. It concludes with magnificent divine names (Al-Jabbar, Al-Mutakabbir, Al-Khaliq, Al-Bari', Al-Musawwir) and the declaration that the best names belong to Allah.",
+      "main_themes": [
+        "Divine sovereignty over worldly events and military outcomes",
+        "The just distribution of spoils of war",
+        "The generosity and solidarity of the Ansar",
+        "The treachery and cowardice of the hypocrites",
+        "The comparison of hypocrites to Satan",
+        "The magnificence of divine names and attributes"
+      ],
+      "historical_context": "This Medinan soura refers to the campaign against the Banu Nadir in 4 AH (625 CE), when the Jewish tribe was expelled from Madinah after their betrayal of the treaty with the Muslims. The event demonstrated the growing power of the Muslim community and the consequences of treachery.",
+      "key_verses": {
+        "59:2": "The Banu Nadir's expulsion is a lesson about the futility of relying on worldly power against divine decree.",
+        "59:9": "The praise of the Ansar for preferring the emigrants over themselves is one of the Quran's highest commendations of generosity.",
+        "59:10": "The prayer for unity among believers is a timeless supplication for communal harmony.",
+        "59:22-24": "The concluding divine names constitute one of the most concentrated declarations of Allah's attributes in the Quran."
+      },
+      "spiritual_lessons": [
+        "Worldly fortresses cannot protect against divine decree",
+        "True generosity means preferring others over oneself, even in poverty",
+        "Hypocrisy is a spiritual disease that manifests in broken promises",
+        "The fear of people must never outweigh the fear of Allah",
+        "Divine names and attributes are a source of comfort and awe",
+        "Wealth distribution is a divine obligation, not a human prerogative"
+      ],
+      "broader_narrative": "Al-Hashr belongs to the Medinan suras that address the political and military challenges facing the early Muslim community. It establishes principles of just governance, wealth distribution, and communal solidarity while exposing the corrosive effects of hypocrisy."
+    },
+    {
+      "id": 60,
+      "name": "الممتحنة",
+      "transliteration": "Al-Mumtahanah",
+      "translation": "She That Is to Be Examined",
+      "type": "medinan",
+      "total_verses": 13,
+      "summary": "Al-Mumtahanah (She That Is to Be Examined) is a Medinan soura addressing the complex questions of loyalty, interfaith relations, and the treatment of believing women who emigrate from the disbelievers. It opens with a stern prohibition against taking Allah's enemies as allies, those who have driven the Prophet and the believers from their homes because of faith. It warns that such alliances stem from concealed affection that Allah knows fully, and those who engage in them have strayed from the soundness of the way. The soura establishes that worldly relationships, even with parents, children, or relatives, hold no value on the Day of Judgment if those relatives have chosen disbelief. A beautiful passage holds up Ibrahim and his companions as an excellent pattern: they disassociated themselves from their polytheistic people, declaring permanent enmity until the people believe in Allah alone, yet Ibrahim's compassion for his father led him to promise prayer for forgiveness, while acknowledging his powerlessness against divine decree. The soura addresses the specific case of believing women who emigrate to the Muslim community: they must be examined to verify their faith, and if confirmed as believers, they must not be returned to the disbelievers. The Prophet is instructed to accept the pledge of believing women who commit to not associating partners with Allah, not stealing, not committing adultery, not killing their children, not spreading slander, and not disobeying in what is right. The soura closes by repeating the warning against making allies of those upon whom Allah has expressed anger.",
+      "main_themes": [
+        "Prohibition of alliances with enemies of faith",
+        "The primacy of divine loyalty over worldly kinship",
+        "Ibrahim as the supreme model of prophetic patience and compassion",
+        "The rights and protection of believing women who emigrate",
+        "The examination and verification of faith",
+        "The distinction between those who fight for religion and those who do not"
+      ],
+      "historical_context": "This Medinan soura was revealed in the context of the Muslim community's growing diplomatic challenges. Some believers maintained secret ties with the Quraysh and other enemies of Islam. The case of believing women emigrating from Makkah to Madinah raised questions about their legal status. The soura establishes that religious loyalty supersedes tribal and familial bonds.",
+      "key_verses": {
+        "60:4": "Ibrahim's declaration of disassociation from his people is the Quranic model for monotheistic commitment in the face of familial pressure.",
+        "60:8": "Allah does not forbid you from those who do not fight you because of religion from being righteous toward them, establishing the principle of justice even toward non-hostile disbelievers.",
+        "60:12": "The pledge of the believing women establishes a comprehensive moral contract covering monotheism, sexual ethics, child protection, truthfulness, and obedience."
+      },
+      "spiritual_lessons": [
+        "Faith demands choosing divine loyalty over worldly alliances",
+        "Compassion for disbelieving relatives must be balanced with unwavering commitment to truth",
+        "The Ibrahimic model combines firmness in principle with gentleness in personal relations",
+        "Women's religious agency is recognized and protected in Islamic law",
+        "Justice is owed even to those who are not allies, provided they are not hostile",
+        "Faith must be verified through conduct, not merely claimed"
+      ],
+      "broader_narrative": "Al-Mumtahanah belongs to the Medinan suras that address the political and social complexities of the growing Muslim community. It establishes the theological basis for the Islamic position on interfaith relations, not blanket hostility but principled distinction based on actual conduct. The Ibrahimic model it presents connects the Abrahamic tradition to the Muhammadan mission."
+    }
+  ]
+}
