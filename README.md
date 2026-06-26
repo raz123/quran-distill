@@ -18,7 +18,7 @@
 |---------|-------------|
 | 📚 **114 Souras** | Scholarly summaries, one-line TL;DRs, and historical metadata |
 | 📅 **Chronological Ordering** | View souras by revelation date (Meccan / Medinan) |
-| 🔍 **Full-Text Search** | Search across names, transliterations, and summaries |
+| 🔍 **Full-Text Search** | Search across soura names and summaries |
 | 📱 **Responsive Design** | Works beautifully on mobile and desktop |
 | 🚀 **Self-Contained** | Single `index.html` — no external dependencies |
 
