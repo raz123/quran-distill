@@ -6,7 +6,7 @@ A single-page interactive reader presenting scholarly summaries of all 114 soura
 
 ## Features
 
-- **114 souras** with Arabic script, transliteration, translation, and scholarly summaries
+- **114 souras** with transliteration, translation, and scholarly summaries
 - **TL;DR** one-line summaries for quick reference
 - **Chronological ordering** — view souras by revelation date (Meccan/Medinan)
 - **Full-text search** across names, translations, and summaries
