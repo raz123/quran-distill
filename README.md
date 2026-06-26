@@ -2,14 +2,15 @@
 
 A single-page interactive reader presenting scholarly summaries of all 114 souras of the Quran.
 
+> **Note:** The Quran is eternally Arabic — this project works on an English translation. Summaries and TL;DRs are interpretations of the translated text, not the original Arabic.
+
 **Live:** [raz123.github.io/quran-distill](https://raz123.github.io/quran-distill/)
 
 ## Features
 
-- **114 souras** with transliteration, translation, and scholarly summaries
-- **TL;DR** one-line summaries for quick reference
+- **114 souras** with scholarly summaries, one-line TL;DRs, and historical metadata
 - **Chronological ordering** — view souras by revelation date (Meccan/Medinan)
-- **Full-text search** across names, translations, and summaries
+- **Full-text search** across names and summaries
 - **Responsive design** — works on mobile and desktop
 - **Self-contained** — single `index.html`, no external dependencies
 
